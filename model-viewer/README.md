@@ -1,4 +1,10 @@
 # playcanvas-3d
 
+[Publishing at PlayCanvas](https://playcanv.as/b/e8c0b298)
 
-place an entity wth physics
+orbitCamera 
+touchInput
+mouseInput
+keyboardInput
+
+entity with a template
