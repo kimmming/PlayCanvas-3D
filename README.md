@@ -1,3 +1,3 @@
-# playcanvas-3d
+# PlayCanvas-3D
 
 PlayCanvas
