@@ -7,6 +7,6 @@
 
 
 ## Tutorial  Directory
-- [1. ModelViewer]([https://playcanv.as/b/e8c0b298](https://github.com/kimmming/PlayCanvas-3D/tree/main/model-viewer)https://github.com/kimmming/PlayCanvas-3D/tree/main/model-viewer)
+- [1. ModelViewer](https://github.com/kimmming/PlayCanvas-3D/tree/main/model-viewer)
 
-- [2. RigidBody]([https://playcanv.as/p/qI7U7DbG/](https://github.com/kimmming/PlayCanvas-3D/tree/main/model-viewer)https://github.com/kimmming/PlayCanvas-3D/tree/main/rigidBody) 
+- [2. RigidBody](https://github.com/kimmming/PlayCanvas-3D/tree/main/rigidBody)
