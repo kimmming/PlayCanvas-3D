@@ -9,4 +9,4 @@
 ## Tutorial  Directory
 - [1. ModelViewer](https://playcanv.as/b/e8c0b298)
 
-- [2. rigidBody](https://playcanv.as/p/qI7U7DbG/) 
+- [2. RigidBody](https://playcanv.as/p/qI7U7DbG/) 
